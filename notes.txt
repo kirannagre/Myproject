@@ -1,0 +1,20 @@
+React is a frontend library which is an extension of javascript lanaguage to build standalone
+single page application. 
+
+In react we are using Our Javscript ES7 modules withhin structural reusble code using html elements 
+and css styling within our particular component .
+
+
+JSX->It is a combination xml and javascript .
+
+Generally JSX is used to deploy elements with ease of common text or markup language.
+
+<> 
+   within a JSX format
+</>
+
+
+Types of component :
+1)functional component
+2)class component
+
